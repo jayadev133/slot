@@ -86,6 +86,44 @@ Execute the program using runserver command.
             <td>SS</td>
             <td>CHY</td>
         </tr>
+
+        <table border="1">
+            <tr>
+              <th>S. No.</th>
+              <th>Subject Code</th>
+              <th>Subject Name</th>
+            </tr>
+            <tr>
+              <td>1.</td>
+              <td>19A1414</td>
+              <td>Fundamentals of Web Application Development (FWAD)</td>
+            </tr>
+            <tr>
+              <td>2.</td>
+              <td>19EN612</td>
+              <td>German Basic (GER)</td>
+            </tr>
+            <tr>
+              <td>3.</td>
+              <td>19PH206</td>
+              <td>Physics for Information Technology (PHY)</td>
+            </tr>
+            <tr>
+              <td>4.</td>
+              <td>19CY205</td>
+              <td>Principles of Chemistry in Engineering (CHE)</td>
+            </tr>
+            <tr>
+              <td>5.</td>
+              <td>19MA201</td>
+              <td>Calculus and Matrix Algebra (MAT)</td>
+            </tr>
+            <tr>
+              <td>6.</td>
+              <td>19EY701</td>
+              <td>Soft Skills (SS)</td>
+            </tr>
+          </table>
         
         
         
@@ -94,8 +132,8 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/c4741041-9478-491f-9a0d-7b4209cd5d49)
 
-![image](https://github.com/user-attachments/assets/ef3889ce-a37e-4171-ab16-2fc458a58c26)
 
 
 
